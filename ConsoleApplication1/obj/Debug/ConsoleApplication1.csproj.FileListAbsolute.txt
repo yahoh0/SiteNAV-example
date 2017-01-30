@@ -1,0 +1,54 @@
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\iam4a\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\ООП_Лаба №1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\ООП_Лаба №5\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Study\ООП\Lr_5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Study\ООП\Lr_5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Study\ООП\Lr_5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Study\ООП\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Лабораторные\ООП\Вячеслав\Lr_5_C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

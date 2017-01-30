@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConsoleApplication1.calc&lt;Ta, Tb, Tx&gt;">
+    <Position X="3.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAgAAAAAABAAlAAAABAAAAA=</HashCode>
+      <FileName>calc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.vector&lt;Ta&gt;">
+    <Position X="10.25" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACCAAgAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Struct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ConsoleApplication1.Complex">
+    <Position X="7.25" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAYAeAAwAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Struct.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

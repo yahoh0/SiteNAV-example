@@ -1,0 +1,5 @@
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\НАУ_ХАИ\ООП\Лаба №1_прога\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
